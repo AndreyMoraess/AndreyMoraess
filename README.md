@@ -5,7 +5,7 @@ Currently in second year of college at at IFBA, major degree in Information Syst
 
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyMoraess&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyMoraess&layout=compact)
 
 
 	
